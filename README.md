@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/L6ZcqqH.png">
 
 # MadUSB
-Spreading overall USB drivers silently. In the same time, MadUSB will clone itself as the USB's legit applications by "hijacking" icons even the folders icons. When the user clicks on any file on the USB, both Payload and the legit application will be running in same time.
+Spreading over USB drivers silently. In the same time, MadUSB will clone itself as the USB's legit applications by "hijacking" icons even the folders icons. When the user clicks on any file on the USB, both Payload and the legit application will be running in same time.
 
 
 ## Main Features
